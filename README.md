@@ -1,6 +1,6 @@
 # LabFD-CNC
 ![Imagen LabFD CNC]
-(https://github.com/LabFD/openpump/blob/master/bombajeringa.jpg)
+(https://github.com/LabFD/LabFD-CNC/blob/master/labFD%20CNC.jpg)
 
 Las piezas fueron redibujadas basandose en los stl publicados en [thingiverse](http://www.thingiverse.com/thing:724999) para adaptarlos a los materiales que se consiguen facilmente en Argentina y tambien pensando en poner un poco de nuestra parte en lo que puede mejorarse. 
 
